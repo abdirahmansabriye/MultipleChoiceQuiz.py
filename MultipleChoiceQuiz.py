@@ -17,7 +17,7 @@ def quiz():
       print("Incorrect. The correct answer was Paris.")
 
   # question 2
-  print("\nQuestion 2: Who is the current President of the United States?")
+  print("Question 2: Who is the current President of the United States?")
   print("a) Donald Trump")
   print("b) Joe Biden")
   print("c) Barack Obama")
